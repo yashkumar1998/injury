@@ -1,0 +1,22 @@
+#main{
+    background-color:aquamarine !important;
+    padding: 30px 60px ;
+
+}
+
+a{
+    color: white !important;
+}
+li{
+    padding-left: 25px;
+    font-size: 20px;
+   color:white ;
+}
+/* 
+git init - initialise repo
+git add . - add files into the folder which will be pushed
+git status - it will show the files ready to be pushed
+git commit -m 'your message' - You can create a commit message by git commit -m         'your message', which adds the change to the local repository.
+git remote add origin 'your_url_name'- to add a remote origin source
+git remote remove origin - to remove the origin (if you have cloned from an external repo than you will have to use this command).
+git push -u origin master- it will add the files on github */
